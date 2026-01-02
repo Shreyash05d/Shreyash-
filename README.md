@@ -1,4 +1,4 @@
 # Shreyash-
 This is  my first git reprository
 <br>
-Author - Shreyash Rakshe.
+Author - Shreyash Rakshe.(python begineer)
